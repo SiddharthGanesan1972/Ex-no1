@@ -59,6 +59,7 @@ END
 |       1200🔢       01         12
 
 |         1200                    |
+<img width="1099" height="631" alt="image" src="https://github.com/user-attachments/assets/8106c754-9f64-45cb-bf45-a626d6b5c6c2" />
 
 #### Manual Calculations
 
@@ -110,6 +111,7 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
+<img width="1099" height="630" alt="image" src="https://github.com/user-attachments/assets/d9f2a89b-73c4-47e5-9448-2c11974ed9d1" />
 
 #### Manual Calculations
 
@@ -159,6 +161,7 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
+<img width="1090" height="628" alt="image" src="https://github.com/user-attachments/assets/6de14e9c-829e-494b-90ac-f24fd41daf8f" />
 
 #### Manual Calculations
 
@@ -204,6 +207,7 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
+<img width="1093" height="591" alt="image" src="https://github.com/user-attachments/assets/383bbdfe-02ca-48a9-8256-a041ac2e798e" />
 
 #### Manual Calculations
 
@@ -217,4 +221,3 @@ END
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
-
